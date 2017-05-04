@@ -1,0 +1,18 @@
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\bin\Debug\tortuga.exe.config
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\bin\Debug\tortuga.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\bin\Debug\tortuga.pdb
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\obj\Debug\tortuga.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\obj\Debug\tortuga.Form1.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\obj\Debug\tortuga.Properties.Resources.resources
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\obj\Debug\tortuga.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\obj\Debug\tortuga.exe
+C:\Users\Angel\Documents\4k\Estructura de datos\tortuga\tortuga\obj\Debug\tortuga.pdb
+C:\Users\niri\Desktop\tortuga\tortuga\bin\Debug\tortuga.exe.config
+C:\Users\niri\Desktop\tortuga\tortuga\obj\Debug\tortuga.exe
+C:\Users\niri\Desktop\tortuga\tortuga\obj\Debug\tortuga.pdb
+C:\Users\niri\Desktop\tortuga\tortuga\bin\Debug\tortuga.exe
+C:\Users\niri\Desktop\tortuga\tortuga\bin\Debug\tortuga.pdb
+C:\Users\niri\Desktop\tortuga\tortuga\obj\Debug\tortuga.csprojResolveAssemblyReference.cache
+C:\Users\niri\Desktop\tortuga\tortuga\obj\Debug\tortuga.Form1.resources
+C:\Users\niri\Desktop\tortuga\tortuga\obj\Debug\tortuga.Properties.Resources.resources
+C:\Users\niri\Desktop\tortuga\tortuga\obj\Debug\tortuga.csproj.GenerateResource.Cache
